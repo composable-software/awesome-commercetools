@@ -49,6 +49,35 @@
 ### Other
 - [Enterspeed](https://github.com/enterspeedhq/enterspeed-source-commercetools): A ready to use integration service for connecting Commercetools as an Enterspeed data-source by importing products, variants and categories.
 
+## Tools
+- [Commercetools Anonymizer](https://github.com/mmularski/commercetools-utils): CLI Tool for some Commercetools useful actions like: Personal data erasure, Personal data anonymization, and Generating some mock data.
+- [Category Exporter](https://commercetools.github.io/nodejs/cli/category-exporter.html): A package which exports commercetools categories in JSON format from the commercetools platform.
+- [CSV Parser Discount Code](https://commercetools.github.io/nodejs/cli/category-exporter.html): Convert commercetools discount codes CSV data to JSON. See example below for CSV format, sample response and usage.
+- [CSV Parser Price](https://commercetools.github.io/nodejs/cli/csv-parser-price.html): Convert commercetools price CSV data to JSON. See example below for CSV format and sample response.
+- [CSV Parser Orders](https://commercetools.github.io/nodejs/cli/csv-parser-orders.html): Convert commercetools order CSV data to JSON. See examples below for supported CSV format and sample responses.
+- [CSV Parser State](https://commercetools.github.io/nodejs/cli/csv-parser-state.html): Convert commercetools states CSV data to JSON. See example below for CSV format, sample response and usage.
+- [Custom Objects Exporter](https://commercetools.github.io/nodejs/cli/custom-objects-exporter.html): A package which exports commercetools custom objects in JSON format from the commercetools platform.
+- [Custom Objects Importer](https://commercetools.github.io/nodejs/cli/custom-objects-importer.html): This package helps with importing commercetools custom objects in JSON format to the commercetools platform. The package is built to be used in conjunction with sphere-node-cli.
+- [Customer Groups Exporter](https://commercetools.github.io/nodejs/cli/customer-groups-exporter.html): A package which exports commercetools customer groups in JSON format from the commercetools platform.
+- [Personal Data Erasure](https://commercetools.github.io/nodejs/cli/personal-data-erasure.html): A package which deletes or exports commercetools personal data in JSON format from the commercetools platform.
+- [Discount Code Generator](https://commercetools.github.io/nodejs/cli/discount-code-generator.html): Generate unique discount codes to be imported to the commercetools platform.
+- [Discount Code Exporter](https://commercetools.github.io/nodejs/cli/discount-code-exporter.html): A package that helps with exporting commercetools discount codes in JSON or CSV format from the commercetools platform.
+- [Discount Code Importer](https://commercetools.github.io/nodejs/cli/discount-code-importer.html): A package that helps with importing commercetools discount codes in JSON format to the commercetools platform. This package is built to be used in conjunction with sphere-node-cli.
+- [Inventories Exporter](https://commercetools.github.io/nodejs/cli/inventories-exporter.html): This package helps in exporting inventories from the commercetools platform in csv and json format.
+- [Price Exporter](https://commercetools.github.io/nodejs/cli/price-exporter.html): A package that helps with exporting commercetools price in JSON or CSV format from the commercetools platform.
+- [Product Exporter](https://commercetools.github.io/nodejs/cli/product-exporter.html): A package that helps with exporting commercetools products from the commercetools platform. The products can be exported in JSON format, or as chunks that can be piped to a parser for more export formats.
+- [Product JSON to CSV Parser](https://commercetools.github.io/nodejs/cli/product-json-to-csv.html): A package that parses commercetools products JSON data to CSV. The products to be parsed can either be read from a .json file or directly piped in from the product exporter.
+- [Product JSON to XLSX Parser](https://commercetools.github.io/nodejs/cli/product-json-to-xlsx.html): A package that parses commercetools products JSON data to XLSX. The products to be parsed can either be read from a .json file or directly piped in from the product exporter.
+- [Resource Deleter](https://commercetools.github.io/nodejs/cli/resource-deleter.html): A package which deletes resources from the commercetools platform.
+- [State Importer](https://commercetools.github.io/nodejs/cli/state-importer.html): A package that helps with importing commercetools states in JSON format to the commercetools platform. This package is built to be used in conjunction with sphere-node-cli.
+
+## Other
+- [Commercetools Messages](https://github.com/composable-software/commercetools-messages): This library mocks the Commercetools messages to ease testing of your typescript codebases.
+- [Commercetools Terraform Provider](https://github.com/labd/terraform-provider-commercetools): The Terraform commercetools provider allows you to configure your commercetools project with infrastructure-as-code principles.
+- [Commercetools Mocking library for Node](https://github.com/labd/commercetools-node-mock): This library mocks the Commercetools rest api to ease testing of your typescript codebases interacting with the commercetools api.
+- [Commercetools Mock Server](https://github.com/labd/commercetools-mock-server): Docker image which offers mocks for the commercetools api.
+- [Commercetools Entities Schemas](https://github.com/Devgurusio/commercetools-entities-schemas): Reusable commercetools entities schemas definitions.
+
 ## Contribute
 
 Contributions are welcome! If you have any additional resources or tools related to Commercetools that you'd like to add, feel free to submit a pull request. Read the [contribution guidelines](CONTRIBUTING.md) first.
