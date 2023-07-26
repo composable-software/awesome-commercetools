@@ -1,32 +1,27 @@
-# Awesome Commercetools
+<!--lint disable awesome-list-item-->
+<div align="center">
+  <p align="center">
+    <img alt="Commercetools" src="https://avatars.githubusercontent.com/u/1084585?s=150&v=4" width="150" />
+  </p>
+<h1>Awesome Commercetools</h1>
+<p>A curated list of awesome resources and tools for working with Commercetools, a flexible, cloud-native eCommerce platform</p>
 
-A curated list of awesome resources and tools for working with Commercetools, a flexible, cloud-native eCommerce platform.
+<a href="#integrations">Integrations</a>
+&nbsp;&nbsp;&nbsp;
+<a href="CONTRIBUTING.md">Contribution guide</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://docs.commercetools.com/docs/">Official documentation</a>
 
-## Official Resources
+  <a href="https://awesome.re">
+    <img src="https://awesome.re/badge.svg" alt="Awesome">
+  </a>
+</div>
+
+## Integrations
 
 - [Commercetools Website](https://commercetools.com/): Official website of Commercetools with product information, documentation, and more.
 - [Commercetools Documentation](https://docs.commercetools.com/): Comprehensive documentation for developers and merchants to get started with Commercetools.
 - [Commercetools API Reference](https://docs.commercetools.com/api/): In-depth API documentation for Commercetools, providing details on all available endpoints and operations.
-
-## SDKs and Tools
-
-- [Commercetools Java SDK](https://github.com/commercetools/commercetools-jvm-sdk): Official Java SDK to interact with the Commercetools platform using Java.
-- [Commercetools JavaScript SDK](https://github.com/commercetools/nodejs): Official JavaScript SDK for Commercetools, designed for use with Node.js and in browsers.
-- [Commercetools .NET SDK](https://github.com/commercetools/commercetools-dotnet-sdk): Official .NET SDK for Commercetools, supporting C# and .NET-based applications.
-
-## Community Libraries
-
-- [Commercetools Python Library](https://github.com/commercetools/commercetools-python-sdk): A Python library to interact with Commercetools API using Python programming language.
-- [Commercetools PHP Library](https://github.com/commercetools/commercetools-php-sdk): PHP SDK for Commercetools to build PHP applications that communicate with the platform.
-
-## Articles and Tutorials
-
-- [Getting Started with Commercetools](https://medium.com/commercetools/getting-started-with-commercetools-6cda0d97270e): A beginner-friendly guide to kickstart your journey with Commercetools.
-- [Building a Custom Storefront with Commercetools](https://www.smashingmagazine.com/2021/04/custom-storefront-commercetools-next-js/): Step-by-step tutorial on creating a custom storefront with Commercetools and Next.js.
-
-## Videos
-
-- [Introduction to Commercetools](https://www.youtube.com/watch?v=12345): A video overview of Commercetools and its features.
 
 ## Contribute
 
