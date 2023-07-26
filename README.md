@@ -71,8 +71,18 @@
 - [Resource Deleter](https://commercetools.github.io/nodejs/cli/resource-deleter.html): A package which deletes resources from the commercetools platform.
 - [State Importer](https://commercetools.github.io/nodejs/cli/state-importer.html): A package that helps with importing commercetools states in JSON format to the commercetools platform. This package is built to be used in conjunction with sphere-node-cli.
 
+## SDK
+- [Commercetools JAVA SDK](https://github.com/commercetools/commercetools-sdk-java-v2): The e-commerce SDK from commercetools for Java.
+- [Commercetools PHP SDK](https://github.com/commercetools/commercetools-sdk-php-v2): The e-commerce SDK from commercetools for PHP.
+- [Commercetools .NET SDK](https://github.com/commercetools/commercetools-dotnet-core-sdk-v2): The e-commerce SDK from commercetools for .NET.
+- [Commercetools Typescript SDK](https://github.com/commercetools/commercetools-sdk-typescript): The e-commerce SDK from commercetools for JavaScript written in TypeScript.
+- [Commercetools GO SDK](https://github.com/labd/commercetools-go-sdk): The Commercetools Go SDK is automatically generated based on the official API specifications of Commercetools.
+- [Commercetools Python SDK](https://github.com/labd/commercetools-python-sdk): This is an unofficial Python SDK for the Commercetools platform. It only supports Python 3.6+ and uses type annotation for an improved development experience.
+- [Commercetools Swift SDK](https://github.com/commercetools/commercetools-ios-sdk): The e-commerce iOS SDK from commercetools.
+
 ## Other
 - [Commercetools Messages](https://github.com/composable-software/commercetools-messages): This library mocks the Commercetools messages to ease testing of your typescript codebases.
+- [Commercetools Postman Collections](https://github.com/commercetools/commercetools-postman-collection): Postman provides a REST client that helps you executing API requests without any development effort. API requests can be organized into collections that you can import into Postman.
 - [Commercetools Terraform Provider](https://github.com/labd/terraform-provider-commercetools): The Terraform commercetools provider allows you to configure your commercetools project with infrastructure-as-code principles.
 - [Commercetools Mocking library for Node](https://github.com/labd/commercetools-node-mock): This library mocks the Commercetools rest api to ease testing of your typescript codebases interacting with the commercetools api.
 - [Commercetools Mock Server](https://github.com/labd/commercetools-mock-server): Docker image which offers mocks for the commercetools api.
