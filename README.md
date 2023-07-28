@@ -21,12 +21,16 @@
 
 ### Payment
 - [Adyen](https://github.com/Adyen/adyen-commercetools): Provides an integration between the commercetools and Adyen payment service provider based on the concept of Adyen Web Components.
+- [Gr4vy] (https://github.com/gr4vy/gr4vy-commercetools): Gr4vy commercetools integration.
 - [Cybersource](https://github.com/CyberSource/cybersource-plugins-commercetools): This repository contains the source code for the CyberSource CommerceTools plugin.
 - [Worldpay](https://github.com/Worldpay/Worldpay-CommerceTools-CG): The module provides integration between commercetools and Worldpay Worldwide Payment Gateway (WPG).
 - [Planet (Datatrans)](https://github.com/weareplanet/commercetools-planet-integration): Online payments made easy with Planet's commercetools connector. Link dozens of payment methods, acquirers, and currencies to your commercetools projects and offer your customers a state-of-the-art user experience for online payments.
 - [Mollie](https://github.com/mollie/commercetools): This project provides a Hosted checkout based integration between the commercetools and Mollie PSP.
 - [Paypal Plus](https://github.com/commercetools/commercetools-paypal-plus-integration) **!DEPRECATED**: Integration between commercetools API and PayPal Plus API.
 - [Payone](https://github.com/commercetools/commercetools-payone-integration) **!DEPRECATED**: This software provides an integration between the commercetools eCommerce platform API and the PAYONE payment service provider.
+
+### Authentication
+- [Auth0](https://github.com/gradientedge/commercetools-auth0): Facilitates the customer account synchronisation between auth0 and commercetools.
 
 ### Discount
 - [Talon.One](https://github.com/talon-one/commercetools-talonone-accelerator): The Talon.One's commercetools accelerator allows you to integrate the Talon.One Promotion Engine with your commercetools Commerce Platform.
@@ -41,6 +45,7 @@
 
 ### File storage and management
 - [Cloudinary](https://github.com/cloudinary/cloudinary_commercetools_mach): This repo contains the microservices needed to host the functions that drive the Cloudinary commercetools extension. See the individual Readme.md for the platform of your choosing (AWS/Azure/GCP).
+- [Filerobot](https://github.com/scaleflex/commercetools-filerobot-plugin): Filerobot is a scalable and performance-oriented Digital Asset Management platform with integrated image and video optimizers to store, organize, optimize and deliver your media assets such as images, videos, PDFs and many other brand assets fast all around the world to all device types.
 
 ### CMS
 - [Blueprint](https://github.com/craftercms/commercetools-blueprint): This is a fully functional ecommerce blueprint with editorial content weaved in. Commerce is done via integration with commercetools and you'll need to create an account with commercetools to get started.
