@@ -20,6 +20,7 @@
 ## Integrations
 
 ### Payment
+- [Braintree](https://github.com/mediaopt/braintree-commercetools-connector): This is a connect application to integrate Braintree into Commercetools. It follows the folder structure to ensure certification & deployment from commercetools connect team.
 - [Adyen](https://github.com/Adyen/adyen-commercetools): Provides an integration between the commercetools and Adyen payment service provider based on the concept of Adyen Web Components.
 - [Gr4vy](https://github.com/gr4vy/gr4vy-commercetools): Gr4vy commercetools integration.
 - [Cybersource](https://github.com/CyberSource/cybersource-plugins-commercetools): This repository contains the source code for the CyberSource CommerceTools plugin.
