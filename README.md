@@ -98,6 +98,7 @@
 - [Commercetools Mocking library for Node](https://github.com/labd/commercetools-node-mock): This library mocks the Commercetools rest api to ease testing of your typescript codebases interacting with the commercetools api.
 - [Commercetools Mock Server](https://github.com/labd/commercetools-mock-server): Docker image which offers mocks for the commercetools api.
 - [Commercetools Entities Schemas](https://github.com/Devgurusio/commercetools-entities-schemas): Reusable commercetools entities schemas definitions.
+- [Commercetools OMS Connector](https://github.com/Harshca/ct-oms-connector) Generic connector to connect commerceTools with any OMS
 
 ## Contribute
 
