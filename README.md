@@ -36,13 +36,18 @@
 ### Discount
 - [Talon.One](https://github.com/talon-one/commercetools-talonone-accelerator): The Talon.One's commercetools accelerator allows you to integrate the Talon.One Promotion Engine with your commercetools Commerce Platform.
 
+### Tax
+- [Avalara](https://github.com/mediaopt/avalara-commercetools-connector): This is a connect application to integrate Avalara Tax calculation and Reports services into Commercetools.
+
 ### Notification
 - [Klaviyo](https://github.com/klaviyo/commercetools-klaviyo): The Klaviyo plugin for commercetools is a Node.js application that provides the ability to sync commercetools data into Klaviyo.
 - [Sendgrid](https://github.com/Devgurusio/aws-sendgrid-commercetools-connector): The sendgrid commercetools serverless connector for AWS, allows you to quickly deploy a cloud service to manage your emails in Sendgrid based on commercetools messaging and subscriptions.
+- [Connect Email Integration Template](https://github.com/commercetools/connect-email-integration-template): This repository provides a connect template for a email integration connector for notification performed by external email service provider. This boilerplate code acts as a starting point for such integration.
 
 ### Search
 - [Algolia](https://www.algolia.com/developers/code-exchange/backend-tools/integrate-commercetools-with-algolia/): Connect your commercetools store with Algolia in a few clicks. Index your products and keep your product data in sync with Algolia without writing code. The Algolia commercetools integration handles the data connection between your commercetools store and Algolia.
 - [Constructor](https://github.com/commercetools/commercetools-constructorio-connector): This connector contains code to connect commercetools to constructor.io.
+- [Relewise](https://github.com/Relewise/relewise-integrations-commercetools-connect): The Relewise commercetools connect integration provides a default way of synchronizing your product catalog from commercetools to Relewise in order to use our product discoverability features.
 
 ### File storage and management
 - [Cloudinary](https://github.com/cloudinary/cloudinary_commercetools_mach): This repo contains the microservices needed to host the functions that drive the Cloudinary commercetools extension. See the individual Readme.md for the platform of your choosing (AWS/Azure/GCP).
@@ -55,7 +60,8 @@
 ### CMS
 - [Blueprint](https://github.com/craftercms/commercetools-blueprint): This is a fully functional ecommerce blueprint with editorial content weaved in. Commerce is done via integration with commercetools and you'll need to create an account with commercetools to get started.
 - [Kontent.ai](https://github.com/hermanviking/integration-commercetools): This custom element extension for Kontent.ai allows users to search and link selected products from commercetools into their structured content.
-- [Strapi](https://github.com/JonssonWorkwear/strapi-plugin-commercetools-integration): This package provides a custom field for Strapi that allows content editors to search and reference products from Commercetools. 
+- [Strapi](https://github.com/JonssonWorkwear/strapi-plugin-commercetools-integration): This package provides a custom field for Strapi that allows content editors to search and reference products from Commercetools.
+- [Storyblok](https://github.com/labd/storyblok-plugins): Contains plugins for storyblok such as a Commercetools category selector.
 
 ## Storefront
 - [Vuestorefront](https://github.com/vuestorefront/vue-storefront): The open-source frontend for Commercetools. Built with a PWA and headless approach, using a modern JS stack.
