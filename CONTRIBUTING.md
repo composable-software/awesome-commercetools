@@ -1,28 +1,22 @@
 # Contribution Guidelines
 
-Ensure your pull request adheres to the following guidelines:
+Contributions can add useful commercetools resources, correct descriptions, or update broken and outdated entries.
 
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- Suggested packages should be tested and documented.
-- The pull request should have a meaningful title and include a link to the package / resource and why it's awesome.
-- Make an individual pull request for each suggestion.
-- Use the following format: `[resource](link) - Description by [Author](link to author)`
-- Use [title-casing](http://titlecapitalization.com) (AP style).
-- Additions should be added to the bottom of the relevant category.
-- New categories, or improvements to the existing categorization are welcome.
-- Keep descriptions short and simple, but descriptive.
-- Don't mention `Quantified Self` in the description as it's implied.
-- Start the description with a capital.
-- Check your spelling and grammar.
-- Make sure your text editor is set to remove trailing whitespace.
+- Search the list and existing pull requests to avoid duplicates.
+- Link directly to the canonical repository or the provider's integration documentation.
+- Explain what the resource does and why it belongs in the list. Prefer documented, usable integrations over announcements or generic company homepages.
+- Use this format: `[Resource](https://example.com) - Short, factual description.`
+- Preserve product names and use `commercetools` for the platform name.
+- Add the entry to the most relevant category. New categories are welcome when they improve navigation.
+- Identify templates, examples, community SDKs, and commercial or Enterprise-only integrations where applicable.
+- Check repository availability, archive status, README notices, and relevant releases or activity. Include the review date and evidence in the pull request.
+- Do not infer that a project is abandoned solely from its last commit or push date. If compatibility or maintenance is uncertain, say so.
+- Do not claim that a connector is certified unless an official source confirms the specific connector.
+- For deprecated or moved projects, link to a documented successor when available. Keep historical resources separate from current entries.
+- Keep descriptions concise, start with a capital letter, and end with a period. Avoid promotional claims.
+- Check links, spelling, grammar, and trailing whitespace.
+- Keep each pull request focused. Related corrections or a documented maintenance audit may be grouped together.
 
-Thank you for your suggestions!
+## Updating your pull request
 
-## Updating your PR
-
-A lot of times, making a PR adhere to the standards above can be difficult.
-If the maintainers notice anything that we'd like changed, we'll ask you to
-edit your PR before we merge it. There's no need to open a new PR, just edit
-the existing one. If you're not sure how to do that,
-[here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)
-on the different ways you can update your PR so that we can merge it.
+If a maintainer requests changes, update the existing pull request instead of opening a new one. Include any new sources or verification results that support the revision.
